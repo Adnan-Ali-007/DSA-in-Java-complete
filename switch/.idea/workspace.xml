@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64bd818d-8690-4dbb-8b5e-7f220ce56cb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../mathsdsa/untitled/src/maths_dsa2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/bin_rec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/fibnacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/recursion_intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strings/src/strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strings/strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/hashing_concepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/hashing_concepts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/src/hashmap_implem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/src/hashmap_implem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/src/hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/src/hashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/com/adnan/array_intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/com/adnan/array_intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathsdsa/untitled/src/mathsdsa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mathsdsa/untitled/src/mathsdsa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching and sorting/binary_search/binary_search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../searching and sorting/binary_search/binary_search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching and sorting/untitled/src/cyclesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../searching and sorting/untitled/src/cyclesort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2O3trMatZnbD4JPdBAIISWuqPZt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/1azha/OneDrive/Desktop/Data Structures/switch",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64bd818d-8690-4dbb-8b5e-7f220ce56cb0" name="Changes" comment="" />
+      <created>1680801292336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680801292336</updated>
+    </task>
+    <servers />
+  </component>
+</project>

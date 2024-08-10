@@ -1,8 +1,8 @@
 import jdk.dynalink.beans.StaticClass;
-
 import java.util.Arrays;
 public class question_basic {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
        // swaping values in array
         int[]arr={1,3,5,23,18};
        // swap(arr,1,3);// took two indeces of array

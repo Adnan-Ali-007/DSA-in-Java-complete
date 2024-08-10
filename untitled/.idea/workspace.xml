@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59b06b54-40b0-4b43-9a56-46c60da502cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../mathsdsa/untitled/src/maths_dsa2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops1/oops1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops1/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops1/src/oops1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops1/src/oops2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops1/src/oops3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops1/src/oops6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/src/patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/Subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/bin_rec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/countzro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/fibnacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/mergesortrec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/pattrnrec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/rec_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/recarr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/recursion_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/recursion_intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strings/src/strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strings/strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/hashing_concepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/hashing_concepts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/src/hashmap_implem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/src/hashmap_implem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/src/hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/hashset_hashmap_hashing/src/hashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/com/adnan/array_intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/com/adnan/array_intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mathsdsa/untitled/src/mathsdsa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mathsdsa/untitled/src/mathsdsa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching and sorting/binary_search/binary_search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../searching and sorting/binary_search/binary_search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching and sorting/untitled/src/cyclesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../searching and sorting/untitled/src/cyclesort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TZQP5S67RChPLyrZ40kO7BJjYi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59b06b54-40b0-4b43-9a56-46c60da502cc" name="Changes" comment="" />
+      <created>1691248096135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691248096135</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

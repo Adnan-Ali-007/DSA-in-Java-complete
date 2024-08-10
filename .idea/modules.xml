@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicjava/basicjava.iml" filepath="$PROJECT_DIR$/basicjava/basicjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching and sorting/binary_search/binary_search.iml" filepath="$PROJECT_DIR$/searching and sorting/binary_search/binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching and sorting/bubble_sort/bubble_sort.iml" filepath="$PROJECT_DIR$/searching and sorting/bubble_sort/bubble_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching and sorting/insertion_sort/insertion_sort.iml" filepath="$PROJECT_DIR$/searching and sorting/insertion_sort/insertion_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching and sorting/mergesort/mergesort.iml" filepath="$PROJECT_DIR$/searching and sorting/mergesort/mergesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching and sorting/searching and sorting.iml" filepath="$PROJECT_DIR$/searching and sorting/searching and sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/subarray/subarray.iml" filepath="$PROJECT_DIR$/arrays/subarray/subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching and sorting/untitled/untitled.iml" filepath="$PROJECT_DIR$/searching and sorting/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cf1c996-a54b-422e-b3bd-4ee6f624674d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Data Structures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LL2/LL2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LL2/int/intr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LL2/oops_1/src/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LL2/untitled/LL2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LL2/untitled/src/LL2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LL2/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Hashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/hashset_hashmap_hashing/hashset_hashmap_hashing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashing_hashmap/.idea/hashing_hashmap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashing_hashmap/hashingmapset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashing_hashmap/labis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashing_hashmap/out/production/hashing_hashmap/.idea/hashing_hashmap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsdsa/.idea/mathsdsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsdsa/untitled/src/maths_dsa2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsdsa/untitled/src/out/production/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathsdsa/untitled/src/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops1/oops1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops1/oops1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops1/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops1/src/oops2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops1/src/oops3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops1/src/oops6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops1/src/oopsfl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/src/patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/untitled/src/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/Subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/bin_rec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/countzro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/fibnacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/mergesortrec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/pattrnrec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/rec_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/recarr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/recursion_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/recursion_intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching and sorting/insertion_sort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching and sorting/mergesort/src/mrgesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching and sorting/searching and sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching and sorting/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/switch/switch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/hashset_hashmap_hashing/hashing_concepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/hashset_hashmap_hashing/hashing_concepts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/hashset_hashmap_hashing/src/hashmap_implem.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/hashset_hashmap_hashing/src/hashmap_implem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/hashset_hashmap_hashing/src/hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/hashset_hashmap_hashing/src/hashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/src/com/adnan/array_intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/src/com/adnan/array_intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/src/question_basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/src/question_basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/subarray/src/subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/subarray/src/subarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/functions/functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathsdsa/untitled/src/mathsdsa.java" beforeDir="false" afterPath="$PROJECT_DIR$/mathsdsa/untitled/src/mathsdsa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searching and sorting/binary_search/binary_search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/searching and sorting/binary_search/binary_search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searching and sorting/insertion_sort/src/insertion_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/searching and sorting/insertion_sort/src/insertion_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searching and sorting/mergesort/src/mergesort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searching and sorting/quicksort/quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/searching and sorting/quicksort/quicksort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searching and sorting/untitled/src/cyclesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/searching and sorting/untitled/src/cyclesort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NHCNWRhvcYiiodZJWWAteUoyBb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/1azha/OneDrive/Desktop/tst"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cf1c996-a54b-422e-b3bd-4ee6f624674d" name="Changes" comment="" />
+      <created>1679311581209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679311581209</updated>
+    </task>
+    <servers />
+  </component>
+</project>

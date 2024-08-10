@@ -3,10 +3,7 @@ import java.util.Scanner;
 public class subarray {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int arr[] = new int[5];
-        for (int i = 0; i < arr.length; i++) {
-         arr[i]=in.nextInt();
-        }
+        int arr
    System.out.println(Arrays.toString(arr));
         int maxsum=Integer.MIN_VALUE;
 //    for (int i=0; i< arr.length;i++)//finding start of subaaray everuytime
